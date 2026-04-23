@@ -89,7 +89,7 @@
   <a href="mailto:uluharun12@gmail.com">
     <img src="https://img.shields.io/badge/Email-uluharun12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.gg/">
+  <a href="[https://discord.gg](https://discord.com/users/1144033402761261147)/">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://twitter.com/uluharun">
