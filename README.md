@@ -1,80 +1,112 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=210&section=header&text=Harun%20Ulu&fontSize=42&fontColor=58A6FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=300&section=header&text=Hey,+I'm+Harun+👋&fontSize=60&fontColor=58a6ff&animation=fadeIn&desc=Backend+Developer+%7C+Minecraft+Systems+%7C+Java&descSize=24&descColor=8b949e" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Java+%7C+Python+Developer;Minecraft+Plugin+Systems;Event-Driven+Logic+%26+Backend+Basics;Learning+Software+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58a6ff&center=true&vCenter=true&width=width&lines=Building+Minecraft+Server+Systems;Crafting+Event-Driven+Logic;Learning+Backend+Development;Clean+Code+Enthusiast" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Germany-2ea44f" />
-  <img src="https://img.shields.io/badge/Focus-Backend-blue" />
-  <img src="https://img.shields.io/badge/Speciality-Minecraft%20Systems-orange" />
-  <img src="https://img.shields.io/badge/Status-Consistent%20Learner-brightgreen" />
-  <img src="https://komarev.com/ghpvc/?username=uluharun&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://uluharun.github.io">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Online-0d1117?style=for-the-badge&logo=react&logoColor=58a6ff" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=uluharun&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/uluharun?style=flat&color=58a6ff&label=Followers" />
 </p>
 
 ---
 
-## 🧠 Developer Mindset
-I learn software engineering by building systems, not by copying tutorials.
-
-**I practice:**
-- event-driven logic  
-- command architecture  
-- configuration handling (YAML)  
-- debugging real server behavior  
-- writing cleaner code over time  
-
----
-
-## 🧱 Core Project — Minedox
-A Minecraft development playground where I design mechanics and improve my code structure.
-
-**What I build there:**
-- modular plugin features  
-- command & permission systems  
-- config + simple data saving  
-- testing features in real server conditions  
-
----
-
-## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,vscode,windows,linux" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spigot-Plugin%20Development-orange" />
-  <img src="https://img.shields.io/badge/Bukkit-API-green" />
-  <img src="https://img.shields.io/badge/Minecraft-Java%20Edition-brightgreen" />
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=notepad%2B%2B&logoColor=black" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uluharun&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uluharun&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&layout=compact&langs_count=6" height="180" />
 </p>
 
 ---
 
-## 📈 Skill Progress
-
 <p align="center">
-
-<img src="https://img.shields.io/badge/System%20Design-70%25-58A6FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/OOP%20Thinking-75%25-58A6FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Debugging-70%25-58A6FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Code%20Structure-72%25-58A6FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Problem%20Solving-74%25-58A6FF?style=for-the-badge">
-
+  <img src="https://github-profile-trophy.vercel.app/?username=uluharun&theme=radical&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&center=true" width="100%" />
 </p>
 
 ---
 
-## 📬 Contact Me
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uluharun&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&ring=58a6ff&fire=58a6ff&currStreakLabel=Streak" />
+</p>
+
+---
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,git,vscode,windows,linux,mysql,docker" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spigot API-ORANGE?style=flat" />
+  <img src="https://img.shields.io/badge/Bukkit-GREEN?style=flat" />
+  <img src="https://img.shields.io/badge/Minecraft-BRIGHTGREEN?style=flat" />
+  <img src="https://img.shields.io/badge/YAML-BRIGHTGREEN?style=flat" />
+</p>
+
+---
+
+<h3 align="center">📂 Pinned Projects</h3>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<h4 align="center">🚀 hcore</h4>
+<p align="center">Minecraft core plugin system</p>
+<p align="center">
+<img src="https://img.shields.io/github/license/uluharun/hcore?color=58a6ff" />
+<img src="https://img.shields.io/github/last-commit/uluharun/hcore?color=58a6ff" />
+</p>
+</td>
+<td align="center" width="50%">
+<h4 align="center">👤 uluharun</h4>
+<p align="center">Personal GitHub profile</p>
+<p align="center">
+<img src="https://img.shields.io/github/license/uluharun/uluharun?color=58a6ff" />
+<img src="https://img.shields.io/github/last-commit/uluharun/uluharun?color=58a6ff" />
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">📊 Activity Graph</h3>
+
+<p align="center">
+<img src="https://github-activity-graph.vercel.app/graph?username=uluharun&theme=radical&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&hide_border=true" />
+</p>
+
+---
+
+<h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
   <a href="mailto:uluharun12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-uluharun12@gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-uluharun12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/uluharun">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/uluharun">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1f6feb&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:58a6ff&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uluharun&label=Visitors&color=58a6ff&style=flat" />
+  <img src="https://img.shields.io/badge/Last Updated-April 2026-58a6ff" />
 </p>
