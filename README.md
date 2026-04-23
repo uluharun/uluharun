@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58a6ff&center=true&vCenter=true&width=width&lines=Building+Minecraft+Server+Systems;Crafting+Event-Driven+Logic;Learning+Backend+Development;Clean+Code+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58a6ff&center=true&vCenter=true&width=500&lines=Building+Minecraft+Server+Systems;Crafting+Event-Driven+Logic;Learning+Backend+Development;Clean+Code+Enthusiast" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,vscode,windows,linux,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,nextjs,react,git,vscode,windows,linux,mysql,docker" />
 </p>
 
 <p align="center">
@@ -89,10 +89,10 @@
   <a href="mailto:uluharun12@gmail.com">
     <img src="https://img.shields.io/badge/Email-uluharun12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://discord.gg](https://discord.com/users/1144033402761261147)/">
+  <a href="https://discord.gg/">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://twitter.com/">
+  <a href="https://twitter.com/uluharun">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/uluharun">
